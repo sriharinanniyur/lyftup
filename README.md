@@ -1,11 +1,10 @@
 # LyftUp
 
 ## Why do we need LyftUp?
-Ambulance service in California is indispensable to those in need of urgent medical attention, but its often inefficient traveling times create a risky situation for those who require it.
+Ambulance service in California is indispensable to those in need of urgent medical attention, but its often inefficient traveling times create a risky situation for those who require it. Driving services like Lyft are useful for such rapid transport, but they lack integration with medical services.
 
 ## What is LyftUp?
-LyftUp is a new and life-saving web application that consolidates the power of driving services like Lyft with the prerogative of medical attention.
-LyftUp enables Lyft users to quickly call a Lyft to the nearest hospital; the driver themselves may provide medical attention if they have previously submitted professional medical credentials to LyftUp.
+LyftUp is a new and life-saving web application that consolidates the power of driving services like Lyft with the prerogative of medical attention. LyftUp enables Lyft users to quickly call a Lyft to the nearest hospital; the driver themselves may provide medical attention if they have previously submitted professional medical credentials to LyftUp. LyftUp also enables drivers to register as medical professionals in order to help users decide which drivers to choose.
 
 ## How was LyftUp created?
 LyftUp was written in Python, using Flask for the web server. LyftUp makes extensive use of the Lyft and Google Maps API.
