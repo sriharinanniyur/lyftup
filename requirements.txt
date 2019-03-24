@@ -40,7 +40,6 @@ future==0.17.1
 gcloud==0.17.0
 geocoder==1.38.1
 geographiclib==1.49
-geojson==1.4.1
 geolocation-python==0.2.2
 geopy==1.18.1
 gmaps==0.8.4
