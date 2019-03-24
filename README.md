@@ -1,4 +1,5 @@
 # LyftUp
+by Srihari Nanniyur and Aadit Trivedi
 
 ## Why do we need LyftUp?
 Ambulance service is indispensable to those in need of urgent medical attention, but its often inefficient traveling times create a fatal situation for those who face a life or death situation. Driving services like Lyft are useful for such rapid transport, but they lack seamless integration with medical services.
