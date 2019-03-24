@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Emergency | LyftUp</title>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:700" rel="stylesheet">
+    {{yourmap.js}}
+</head>
+
+<style>
+
+    .button:hover {
+      background-color: blue;
+      color: white;
+      box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+
+    }
+    .button {
+      background-color: white; /* Green */
+      border: none;
+      color: black;
+      padding: 16px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 26px;
+      -webkit-transition-duration: 0.4s; /* Safari */
+      transition-duration: 0.4s;
+      cursor: pointer;
+      font-size: 15px;
+    }
+
+  html {
+    background-color: #84BAFF;
+    font-family: 'Montserrat';
+  }
+
+  p {
+    font-family: 'Montserrat';
+  }
+
+  .id-box {
+    background-color: #1ebbd7;
+    width: 500px;
+  }
+  </style>
+<body>
+  <center>
+    {{yourmap.html}}
+    <p>Your ride is {{eta_seconds}} seconds away!</p>
+    <a class="button" href="{{auth_url}}">Purchase Ride</a>
+  </center>
+</body
