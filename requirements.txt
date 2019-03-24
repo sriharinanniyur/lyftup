@@ -40,7 +40,7 @@ future==0.17.1
 gcloud==0.17.0
 geocoder==1.38.1
 geographiclib==1.49
-geojson==2.4.1
+geojson==1.4.1
 geolocation-python==0.2.2
 geopy==1.18.1
 gmaps==0.8.4
@@ -57,8 +57,6 @@ hubblepy==1.0.0
 humanfriendly==4.17
 idna==2.7
 inflection==0.3.1
-instagram-private-api==1.5.7
-instaloader==4.2.3
 ipykernel==5.1.0
 ipython==7.4.0
 ipython-genutils==0.2.0
