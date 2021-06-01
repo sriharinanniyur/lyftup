@@ -158,7 +158,7 @@ twilio==6.25.1
 twine==1.12.1
 uber-rides==0.6.0
 uritemplate==3.0.0
-urllib3==1.24.1
+urllib3==1.26.5
 verboselogs==1.7
 wcwidth==0.1.7
 weather-api==1.0.6
